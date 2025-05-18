@@ -5,7 +5,7 @@ An elegant, scroll-driven, single-page wellness tracking interface designed to d
 ---
 
 ## 📸 Preview
-![Alt text](path/to/your/Preview.png)
+![Alt text](images/Preview.png)
 
 
 ---
