@@ -5,9 +5,8 @@ An elegant, scroll-driven, single-page wellness tracking interface designed to d
 ---
 
 ## 📸 Preview
+![Alt text](path/to/your/Preview.png)
 
-![Dashboard Screenshot](images/preview.png)  
-*(Make sure to replace with your actual screenshot path)*
 
 ---
 
@@ -52,7 +51,7 @@ An elegant, scroll-driven, single-page wellness tracking interface designed to d
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/wellness-dashboard.git
+   git clone https://github.com/khushichetule09/workshop
 
 
 💡 Customization
