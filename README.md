@@ -70,5 +70,5 @@ An elegant, scroll-driven, single-page wellness tracking interface designed to d
 
 <<Implement dark/light mode toggle
 
-<<Add local storage to remember last active section
+<<Add local storage to remember last active section!!
 
