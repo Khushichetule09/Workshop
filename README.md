@@ -43,32 +43,6 @@ An elegant, scroll-driven, single-page wellness tracking interface designed to d
 └── bg5.jpg # Background for Recommendations
 
 
----
 
 
-## 🔧 Getting Started
-
-1. **Clone the repo:**
-
-   ```bash
-   git clone https://github.com/khushichetule09/workshop
-
-
-💡 Customization
-<<Replace the images/*.jpg files with your own backgrounds.
-
-<<Update health metrics and recommendations with dynamic data or APIs.
-
-<<Enhance further with dark mode, chart integrations, or login functionality.
-
----
-
-📌 To-Do / Future Ideas
-<<Integrate real-time wellness API (e.g., Fitbit, WHOOP, Garmin)
-
-<<Add charts using Chart.js or Recharts
-
-<<Implement dark/light mode toggle
-
-<<Add local storage to remember last active section!!
 
